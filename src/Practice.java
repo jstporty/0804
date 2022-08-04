@@ -1,6 +1,6 @@
-
-public class Practice {
-	public static void main(String[] args) {
+//
+//public class Practice {
+//	public static void main(String[] args) {
 //	for(int i =1;i<=7;i++) {
 //		System.out.println(fibo(i)+"\t");
 //	}
@@ -11,4 +11,14 @@ public class Practice {
 //	}
 //}
 
-//	j
+//		int before = 1;
+//		int after = 1;
+//		int next=0;
+//		for (int i = 0; i < 7; i++) {
+//			System.out.print(before + "\t");
+//			next = before + after;
+//			before= after;
+//			after=next;		
+//	}
+//}
+//}
